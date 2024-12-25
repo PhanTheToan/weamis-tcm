@@ -36,12 +36,7 @@ npm run dev
 
 ## Liên hệ
 
-Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với chúng tôi qua địa chỉ email: [email@example.com](mailto:email@example.com).
-
-## Giấy phép
-
-Dự án này chưa có thông tin về giấy phép sử dụng. Vui lòng kiểm tra lại sau.
+Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với chúng tôi qua địa chỉ email: [phantoan3009@gmail.com](mailto:phantoan3009@gmail.com).
 
 ---
-
-Chúc bạn thành công với dự án Weamis! 🚀
+Weamis Tech Solutions! 🚀
