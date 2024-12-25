@@ -1,23 +1,47 @@
-Dự án Weamis
-Đây là một dự án web của công ty khởi nghiệp Weamis. Dự án này là trang web chính thức của công ty, bao gồm trang chủ và các trang thông tin liên quan.
+# Weamis - Dự án Web Chính Thức
 
-Chức năng chính
-Cung cấp thông tin về công ty Weamis, bao gồm giới thiệu về công ty, sản phẩm và dịch vụ.
-Giao diện thân thiện và dễ sử dụng.
-Được xây dựng bằng công nghệ hiện đại, đáp ứng các tiêu chuẩn web hiện nay.
-Công nghệ sử dụng
-Ngôn ngữ lập trình: JavaScript
-Thư viện/Framework: Next.js
-Công cụ quản lý gói: Yarn
-Công cụ kiểm tra lỗi: ESLint
-Cài đặt Dependency
-Để tải các dependency cần thiết, hãy chạy lệnh sau:
+## Giới thiệu
 
-Sao chép
+Weamis là một công ty khởi nghiệp cung cấp các sản phẩm và dịch vụ tiên tiến chuyên về AI. Dự án này là trang web chính thức của Weamis, nhằm giới thiệu về công ty, sản phẩm và dịch vụ của chúng tôi.
+
+## Chức năng chính
+
+- **Thông tin Công ty:** Cung cấp thông tin chi tiết về Weamis, bao gồm lịch sử, sứ mệnh và giá trị cốt lõi.
+- **Sản phẩm và Dịch vụ:** Giới thiệu các sản phẩm và dịch vụ mà Weamis cung cấp.
+- **Giao diện Thân thiện:** Thiết kế giao diện người dùng dễ sử dụng, thân thiện với người dùng.
+- **Công nghệ Hiện đại:** Được xây dựng trên nền tảng công nghệ tiên tiến, đáp ứng các tiêu chuẩn web hiện nay.
+
+## Công nghệ sử dụng
+
+- **Ngôn ngữ lập trình:** JavaScript
+- **Thư viện/Framework:** Next.js
+- **Công cụ quản lý gói:** Yarn
+- **Công cụ kiểm tra lỗi:** ESLint
+
+## Hướng dẫn Cài đặt
+
+### Bước 1: Cài đặt Dependency
+
+Chạy lệnh sau để tải các dependency cần thiết:
+```bash
 npm install
-Khởi chạy Dự án
-Sau khi cài đặt xong, bạn có thể khởi chạy dự án bằng lệnh:
+```
 
-Sao chép
+### Bước 2: Khởi chạy Dự án
+
+Sau khi cài đặt xong, bạn có thể khởi chạy dự án bằng lệnh:
+```bash
 npm run dev
-Chúc bạn thành công!
+```
+
+## Liên hệ
+
+Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với chúng tôi qua địa chỉ email: [email@example.com](mailto:email@example.com).
+
+## Giấy phép
+
+Dự án này chưa có thông tin về giấy phép sử dụng. Vui lòng kiểm tra lại sau.
+
+---
+
+Chúc bạn thành công với dự án Weamis! 🚀
